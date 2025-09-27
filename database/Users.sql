@@ -1,1 +1,1 @@
--- Estrutura da tabela de usuários do sistema
+# Estrutura da tabela de usuários
