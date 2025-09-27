@@ -1,2 +1,2 @@
 # Controlador do servidor
-# Importação será feita através do repositório local
+# Importação dos módulos necessários para o funcionamento do servidor

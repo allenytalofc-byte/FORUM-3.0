@@ -1,0 +1,1 @@
+# Módulo para manipulação de arrays de bytes

@@ -1,0 +1,1 @@
+# Módulo para identificação de pacotes e usuários

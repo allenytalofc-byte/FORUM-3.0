@@ -1,0 +1,1 @@
+# Inicialização das utilidades do sistema

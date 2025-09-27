@@ -1,0 +1,1 @@
+-- Estrutura da tabela de usuários do sistema
