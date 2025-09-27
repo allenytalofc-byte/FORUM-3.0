@@ -1,0 +1,1 @@
+# Módulo para execução de scripts Lua

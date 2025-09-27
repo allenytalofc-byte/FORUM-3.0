@@ -1,0 +1,1 @@
+# Módulo para análise de comandos

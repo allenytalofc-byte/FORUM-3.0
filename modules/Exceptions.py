@@ -1,1 +1,1 @@
-# Módulo para tratamento de exceções do sistema
+# Módulo para tratamento de exceções
