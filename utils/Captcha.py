@@ -1,0 +1,1 @@
+# Utilitário para geração de captchas

@@ -1,1 +1,1 @@
-# Configurações do servidor
+# Configurações do sistema

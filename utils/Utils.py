@@ -1,1 +1,1 @@
-# Funções utilitárias para o sistema
+# Funções utilitárias
